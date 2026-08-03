@@ -6,31 +6,6 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=python,typescript,solidity,git,github,vscode,bash,linux" />
-
-</div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td>Python · TypeScript · Solidity</td>
-  </tr>
-  <tr>
-    <td align="center"><b>AI / Coding Tools</b></td>
-    <td>Claude Code · Cursor · Google Antigravity · Codec</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Agentic Systems</b></td>
-    <td>Germes · AI Agents · Automation Workflows</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Interests</b></td>
-    <td>AI · Crypto · Web3 · Automation · Productivity · Philosophy</td>
-  </tr>
-</table>
-
 ---
 
 <h2 align="center">🤖 AI Tools & Agent Workflow</h2>
@@ -55,8 +30,6 @@
 
 ```txt
 - Building AI-agent workflows
-- Learning deeper Python and TypeScript
-- Exploring Solidity and smart contracts
 - Creating automation tools
 - Turning ideas into useful products
 ```
