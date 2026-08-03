@@ -1,5 +1,11 @@
 
 <div align="center">
+  <img src="assets/tbilisi-cat.gif" width="100%" alt="Кот в жёлтом дождевике гуляет по дождливому Тбилиси">
+</div>
+
+<br>
+
+<div align="center">
   <img src="assets/header.svg" width="100%" alt="n23eos — AI · Agents · Automation · Web3">
 </div>
 
