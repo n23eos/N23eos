@@ -1,6 +1,7 @@
 
-
-
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="n23eos — AI · Agents · Automation · Web3">
+</div>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
