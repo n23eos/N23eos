@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="assets/tbilisi-cat.gif" width="100%" alt="Кот в жёлтом дождевике гуляет по дождливому Тбилиси">
-</div>
+
 
 <br>
 
