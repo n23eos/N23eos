@@ -1,5 +1,6 @@
-
-
+<div align="center">
+  <img src="assets/tbilisi-cat.gif" width="100%" alt="Ночной пиксельный Тбилиси под дождём и кот в жёлтом дождевике">
+</div>
 
 <br>
 
