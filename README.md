@@ -10,7 +10,7 @@
 [92m   ( ~T~     j          [0m  [96mRabbit Run [90m.......[0m Three.js game · Yandex Games · 135 tests
 [92m    >._-' _./           [0m  [96mI Was Here [90m.......[0m Solidity · live on Base mainnet
 [92m   /   "~"  |           [0m  [96mKaidzen [90m..........[0m multi-agent research loop
-[92m  Y     _,  |           [0m  [96mPortfolio [90m........[0m n23eos.github.io/raincoat_website
+[92m  Y     _,  |           [0m  [96mPortfolio [90m........[0m raincoat.cc
 [92m /| ;-"~ _  l           [0m
 [92m/ l/ ,-"~    \          [0m  [93;1mLanguages[0m
 [92m\//\/      .- \         [0m  [96mProgramming [90m......[0m TypeScript, Python, Go, Solidity
@@ -23,7 +23,7 @@
 
 **Product Engineer.** I turn ambiguous ideas into shipped products: 4 Obsidian plugins in the official catalog (3,600+ downloads), a Chrome extension, a game on Yandex Games, a smart contract live on Base mainnet, desktop tools that speak MCP.
 
-Everything clickable → [n23eos.github.io/raincoat_website](https://n23eos.github.io/raincoat_website/?lang=en)
+Everything clickable → [raincoat.cc](https://raincoat.cc/?lang=en)
 
 <div align="center">
 
