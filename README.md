@@ -52,7 +52,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
 
 </div>
-```
 
 ## Support
 
@@ -60,3 +59,5 @@ If this project was useful to you, feel free to support further development:
 
 [![ETH](https://img.shields.io/badge/ETH-0x7777...88C4-blue?logo=ethereum&style=flat-square)](https://etherscan.io/address/0x77777da54702AC8789D53fc7cC6201C29a1A88C4)
 [![Donate](https://img.shields.io/badge/donate-crypto-orange?style=flat-square)](https://etherscan.io/address/0x77777da54702AC8789D53fc7cC6201C29a1A88C4)
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/n23eos)
